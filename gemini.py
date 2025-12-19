@@ -1,4 +1,4 @@
-# File path: c:\Users\jade apas\OneDrive\Documents\4th-year\mama.tads\streamlit\New folder\fast-prototyping-of-genai-apps-with-streamlit\jjla.py
+# File path: C:\Users\lexju\OneDrive\Documents\modules\gemini.py
 
 # import packages
 import streamlit as st
